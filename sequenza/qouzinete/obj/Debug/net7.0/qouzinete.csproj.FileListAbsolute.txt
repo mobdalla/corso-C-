@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\qouzinete.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\qouzinete.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\qouzinete.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\qouzinete.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\qouzinete.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\refint\qouzinete.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\qouzinete.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\ref\qouzinete.dll

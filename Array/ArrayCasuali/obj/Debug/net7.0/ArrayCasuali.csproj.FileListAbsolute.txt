@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\bin\Debug\net7.0\ArrayCasuali.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\bin\Debug\net7.0\ArrayCasuali.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\bin\Debug\net7.0\ArrayCasuali.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\bin\Debug\net7.0\ArrayCasuali.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\bin\Debug\net7.0\ArrayCasuali.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\refint\ArrayCasuali.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ArrayCasuali.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayCasuali\obj\Debug\net7.0\ref\ArrayCasuali.dll

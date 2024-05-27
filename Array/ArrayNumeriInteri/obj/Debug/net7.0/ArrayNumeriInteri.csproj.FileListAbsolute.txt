@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\bin\Debug\net7.0\ArrayNumeriInteri.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\bin\Debug\net7.0\ArrayNumeriInteri.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\bin\Debug\net7.0\ArrayNumeriInteri.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\bin\Debug\net7.0\ArrayNumeriInteri.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\bin\Debug\net7.0\ArrayNumeriInteri.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\refint\ArrayNumeriInteri.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ArrayNumeriInteri.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayNumeriInteri\obj\Debug\net7.0\ref\ArrayNumeriInteri.dll

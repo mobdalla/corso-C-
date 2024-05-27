@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\bin\Debug\net7.0\EStrazioneNumerica.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\bin\Debug\net7.0\EStrazioneNumerica.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\bin\Debug\net7.0\EStrazioneNumerica.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\bin\Debug\net7.0\EStrazioneNumerica.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\bin\Debug\net7.0\EStrazioneNumerica.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\refint\EStrazioneNumerica.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\EStrazioneNumerica.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\iterazione\EStrazioneNumerica\obj\Debug\net7.0\ref\EStrazioneNumerica.dll

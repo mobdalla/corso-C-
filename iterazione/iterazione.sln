@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroPrimo", "NumeroPrimo\NumeroPrimo.csproj", "{DBDACD91-34B6-4F29-A6A3-74AFE4EEBE4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EStrazioneNumerica", "EStrazioneNumerica\EStrazioneNumerica.csproj", "{7C307EF6-C9B1-4052-B442-45777C236259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDACD91-34B6-4F29-A6A3-74AFE4EEBE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDACD91-34B6-4F29-A6A3-74AFE4EEBE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDACD91-34B6-4F29-A6A3-74AFE4EEBE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDACD91-34B6-4F29-A6A3-74AFE4EEBE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C307EF6-C9B1-4052-B442-45777C236259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C307EF6-C9B1-4052-B442-45777C236259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C307EF6-C9B1-4052-B442-45777C236259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C307EF6-C9B1-4052-B442-45777C236259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297203A9-0FC3-4E80-AAAC-3AB840603885}
+	EndGlobalSection
+EndGlobal

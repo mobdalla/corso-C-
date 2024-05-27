@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\bin\Debug\net7.0\SommaDueInteri.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\bin\Debug\net7.0\SommaDueInteri.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\bin\Debug\net7.0\SommaDueInteri.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\bin\Debug\net7.0\SommaDueInteri.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\bin\Debug\net7.0\SommaDueInteri.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\refint\SommaDueInteri.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\SommaDueInteri.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\SommaDueInteri\obj\Debug\net7.0\ref\SommaDueInteri.dll

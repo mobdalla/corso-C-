@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\bin\Debug\net7.0\SequenzaDati.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\bin\Debug\net7.0\SequenzaDati.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\bin\Debug\net7.0\SequenzaDati.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\bin\Debug\net7.0\SequenzaDati.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\bin\Debug\net7.0\SequenzaDati.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\refint\SequenzaDati.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\SequenzaDati.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\SequenzaDati\obj\Debug\net7.0\ref\SequenzaDati.dll

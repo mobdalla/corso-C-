@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\Divisione.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\Divisione.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\Divisione.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\Divisione.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\bin\Debug\net7.0\Divisione.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\refint\Divisione.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\Divisione.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\qouzinete\obj\Debug\net7.0\ref\Divisione.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FrequenzaLanciaDadi/1.0.0": {
+        "runtime": {
+          "FrequenzaLanciaDadi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrequenzaLanciaDadi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\bin\Debug\net7.0\FrequenzaLanciaDadi.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\bin\Debug\net7.0\FrequenzaLanciaDadi.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\bin\Debug\net7.0\FrequenzaLanciaDadi.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\bin\Debug\net7.0\FrequenzaLanciaDadi.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\bin\Debug\net7.0\FrequenzaLanciaDadi.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\refint\FrequenzaLanciaDadi.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\FrequenzaLanciaDadi.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\FrequenzaLanciaDadi\FrequenzaLanciaDadi\obj\Debug\net7.0\ref\FrequenzaLanciaDadi.dll

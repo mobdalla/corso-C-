@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\bin\Debug\net7.0\Fattura.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\bin\Debug\net7.0\Fattura.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\bin\Debug\net7.0\Fattura.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\bin\Debug\net7.0\Fattura.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\bin\Debug\net7.0\Fattura.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\refint\Fattura.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\Fattura.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\Fattura\obj\Debug\net7.0\ref\Fattura.dll

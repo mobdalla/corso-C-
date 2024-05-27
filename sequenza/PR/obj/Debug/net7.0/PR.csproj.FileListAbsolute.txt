@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\bin\Debug\net7.0\PR.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\bin\Debug\net7.0\PR.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\bin\Debug\net7.0\PR.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\bin\Debug\net7.0\PR.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\bin\Debug\net7.0\PR.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\refint\PR.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\PR.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\sequenza\PR\obj\Debug\net7.0\ref\PR.dll

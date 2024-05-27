@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\bin\Debug\net7.0\ArrayString.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\bin\Debug\net7.0\ArrayString.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\bin\Debug\net7.0\ArrayString.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\bin\Debug\net7.0\ArrayString.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\bin\Debug\net7.0\ArrayString.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\refint\ArrayString.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ArrayString.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\Array\ArrayString\obj\Debug\net7.0\ref\ArrayString.dll

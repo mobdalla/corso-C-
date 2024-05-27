@@ -1,0 +1,15 @@
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\bin\Debug\net7.0\PariDispari.exe
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\bin\Debug\net7.0\PariDispari.deps.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\bin\Debug\net7.0\PariDispari.runtimeconfig.json
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\bin\Debug\net7.0\PariDispari.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\bin\Debug\net7.0\PariDispari.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.csproj.AssemblyReference.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.AssemblyInfoInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.AssemblyInfo.cs
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.csproj.CoreCompileInputs.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\refint\PariDispari.dll
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.pdb
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\PariDispari.genruntimeconfig.cache
+C:\Users\ICTS23-25.448\Desktop\ProgettiC#\PariDispari\PariDispari\obj\Debug\net7.0\ref\PariDispari.dll
