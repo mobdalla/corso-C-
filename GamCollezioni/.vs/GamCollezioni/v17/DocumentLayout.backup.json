@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\controllers\\operecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\controllers\\operecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\views\\opere\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\views\\opere\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\views\\opere\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\views\\opere\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\views\\opere\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\views\\opere\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|c:\\users\\icts23-25.448\\source\\repos\\gamcollezioni\\gamcollezioni\\models\\gemcollezionicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC13130-2966-4C91-B8B2-A3A91EF1D5FF}|GamCollezioni\\GamCollezioni.csproj|solutionrelative:gamcollezioni\\models\\gemcollezionicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Opere\\Details.cshtml",
+              "RelativeDocumentMoniker": "GamCollezioni\\Views\\Opere\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Opere\\Details.cshtml",
+              "RelativeToolTip": "GamCollezioni\\Views\\Opere\\Details.cshtml",
+              "ViewState": "AgIAABkAAADA/////z8lwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T09:35:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Opere\\Index.cshtml",
+              "RelativeDocumentMoniker": "GamCollezioni\\Views\\Opere\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Opere\\Index.cshtml",
+              "RelativeToolTip": "GamCollezioni\\Views\\Opere\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T09:34:19.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Opere\\Edit.cshtml",
+              "RelativeDocumentMoniker": "GamCollezioni\\Views\\Opere\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Opere\\Edit.cshtml",
+              "RelativeToolTip": "GamCollezioni\\Views\\Opere\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T09:34:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GamCollezioni\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GamCollezioni\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABMAAACAMjMzMzMLwBYAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T08:42:58.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpereController.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Controllers\\OpereController.cs",
+              "RelativeDocumentMoniker": "GamCollezioni\\Controllers\\OpereController.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Controllers\\OpereController.cs",
+              "RelativeToolTip": "GamCollezioni\\Controllers\\OpereController.cs",
+              "ViewState": "AgIAAAYAAAAAMzMzMzMbwB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:41:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GemCollezioniContext.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Models\\GemCollezioniContext.cs",
+              "RelativeDocumentMoniker": "GamCollezioni\\Models\\GemCollezioniContext.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Models\\GemCollezioniContext.cs",
+              "RelativeToolTip": "GamCollezioni\\Models\\GemCollezioniContext.cs",
+              "ViewState": "AgIAABAAAADAzMzMzMwuwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:39:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Program.cs",
+              "RelativeDocumentMoniker": "GamCollezioni\\Program.cs",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\Program.cs",
+              "RelativeToolTip": "GamCollezioni\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAHwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T08:13:01.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\appsettings.json",
+              "RelativeDocumentMoniker": "GamCollezioni\\appsettings.json",
+              "ToolTip": "C:\\Users\\ICTS23-25.448\\source\\repos\\GamCollezioni\\GamCollezioni\\appsettings.json",
+              "RelativeToolTip": "GamCollezioni\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T08:09:34.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
