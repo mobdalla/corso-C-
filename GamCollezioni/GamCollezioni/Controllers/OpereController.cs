@@ -22,8 +22,11 @@ namespace GamCollezioni.Controllers
 
         // GET: Opere
         [AllowAnonymous]
-        public async Task<IActionResult> Index(string autore, string titolo)
+        public async Task<IActionResult> Index(int pagina, string autore, string titolo)
         {
+            var record = 10;
+            if (pagina == 0)
+                pagina = 1;
             var lista = _context.Opere.IgnoreQueryFilters();
             if(!string.IsNullOrEmpty(autore))
                 lista = lista.Where(x => x.Autore!.Contains(autore));
@@ -31,10 +34,21 @@ namespace GamCollezioni.Controllers
                 lista =lista.Where(x => x.Titolo!.Contains(titolo));
             ViewBag.Autore = autore;
             ViewBag.Titolo = titolo;
+            ViewBag.Pagine = lista.Count() / record;
+            ViewBag.PaginaSeke = pagina;//numero di pagine da visualizzare
+
+
+            return View(await lista.Skip((pagina-1)*record).Take(record).ToListAsync());
+        }
+        [AllowAnonymous]
+        public async Task<IActionResult> Autori()
+        {
+          
+            var lista = await _context.Opere.Select(x=>x.Autore).Distinct().ToArrayAsync();
             
 
 
-            return View(await lista.ToListAsync());
+            return View(lista);
         }
 
         // GET: Opere/Details/5

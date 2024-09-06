@@ -55,3 +55,17 @@
 }
     </tbody>
 </table>
+<p>
+@for(int i = 1; i<=ViewBag.Pagine; i++)
+{
+        if (ViewBag.PaginaSele == i)
+        {
+            <a><b>@i</b></a>
+        }
+        else
+        {
+            <a href="/Opere/?pagina=@i&autore=@ViewBag.Autore&titolo=@ViewBag.Titolo">@i</a>
+        }
+
+}
+</p>
