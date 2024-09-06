@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VideoTeca
+build_property.RootNamespace = VideoTeca
+build_property.ProjectDir = C:\Users\ICTS23-25.448\source\repos\VideoTeca\VideoTeca\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ICTS23-25.448\source\repos\VideoTeca\VideoTeca
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Films/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Films/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Films/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Films/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Films/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Prestiti/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Prestiti/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Prestiti/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Prestiti/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Prestiti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc3RpdGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Studentes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Studentes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Studentes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Studentes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Studentes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ICTS23-25.448/source/repos/VideoTeca/VideoTeca/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qnk1vk2uay
